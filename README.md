@@ -1,30 +1,12 @@
-# Web Greeter gruvbox theme
-
-## Overview
-
-This is a web-greeter theme for Carbonix, forked from the original gruvbox theme included in web-greeter.
-
-[//]: # (## Screenshots)
-
-[//]: # (<center>)
-
-[//]: # (<img src="assets/screenshots/theme-show-1.png" alt="Gruvbox theme"/>)
-
-[//]: # ()
-[//]: # (<img src="assets/screenshots/theme-show-2.png" alt="Shutting down"/>)
-
-[//]: # ()
-[//]: # (<img src="assets/screenshots/theme-show-3.png" alt="Background selector with GNOME wallpapers"/>)
-
-[//]: # (</center>)
-
-[//]: # (## Installation)
-
-[//]: # (This theme is shipped with `web-greeter`. To use it, set the `theme` as `gruvbox` inside `/etc/lightdm/web-greeter.yml`)
+# CarbonixOS Login Greeter Config
+This is the web-greeter theme for Carbonix, forked from the original gruvbox theme included in web-greeter.
 
 ## TODO
-
 - Translations support
 
-[web-greeter]: https://github.com/JezerM/web-greeter "Web Greeter"
-[glorious]: https://github.com/manilarome/lightdm-webkit2-theme-glorious "Glorious"
+## Credits
+[//]: # (Note: LightDM Web Greeter and Lightdm WebKit2 are NOT the same program. web-greeter is the sucessor)
+[//]: # (to lightdm-webkit2-greeter)
+Thanks to:
+ - [LightDM Web Greeter](https://github.com/JezerM/web-greeter)
+ - Eventually, the [Glorious LightDM WebKit2 Greeter Theme](https://github.com/manilarome/lightdm-webkit2-theme-glorious)
